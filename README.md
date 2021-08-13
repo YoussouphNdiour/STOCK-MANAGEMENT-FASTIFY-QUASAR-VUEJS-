@@ -1,0 +1,2 @@
+# STOCK-MANAGEMENT-FASTIFY-QUASAR(VUEJS)
+ stock management
